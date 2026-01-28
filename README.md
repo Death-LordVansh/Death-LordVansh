@@ -63,18 +63,16 @@
 
 <div align="center">
 
+## 🏆 Competitive Programming Profiles
 <!-- LeetCode -->
 <img src="https://leetcard.jacoblin.cool/Death_lord?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
 
 <!-- Codeforces -->
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vansh1947&theme=dracula" alt="Codeforces Stats" />
 
-<!-- CodeChef -->
-<img src="https://codechef-readme-stats.vercel.app/api/card?username=leading_sky_78&theme=dracula" alt="CodeChef Stats" />
 
-<!-- AtCoder -->
-<img src="https://atcoder-readme-stats.vercel.app/api/card?username=Death_lord&theme=dracula" alt="AtCoder Stats" />
-
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/leading_sky_78)
+[![AtCoder](https://img.shields.io/badge/AtCoder-00BFFF?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Death_lord)
 </div>
 
 ---
