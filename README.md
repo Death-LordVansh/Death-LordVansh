@@ -67,7 +67,7 @@
 <img src="https://leetcard.jacoblin.cool/Death_lord?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
 
 <!-- Codeforces -->
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vansg1947&theme=dracula" alt="Codeforces Stats" />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vansh1947&theme=dracula" alt="Codeforces Stats" />
 
 <!-- CodeChef -->
 <img src="https://codechef-readme-stats.vercel.app/api/card?username=leading_sky_78&theme=dracula" alt="CodeChef Stats" />
