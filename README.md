@@ -3,7 +3,7 @@
 💻 Passionate developer exploring full-stack, mobile, AI, and system design.  
 🚀 Always learning, building, and sharing knowledge with the community.  
 
-### ✨ Math-Flavored Tagline
+### ✨ My Timepass
 Σ skills = {Python + C++ + Java + React + Node.js + ML + AWS + Docker}
 
 ---
