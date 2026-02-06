@@ -65,7 +65,8 @@
 
 ## 🏆 Competitive Programming Profiles
 <!-- LeetCode -->
-<img src="https://leetcard.jacoblin.cool/Death_lord?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
+
+<!-- <img src="https://leetcard.jacoblin.cool/Death_lord?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" /> -->
 
 <!-- Codeforces -->
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vansh1947&theme=dracula" alt="Codeforces Stats" />
