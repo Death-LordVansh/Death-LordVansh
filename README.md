@@ -76,64 +76,15 @@
 ---
 # 🏆 Competitive Programming Journey
 
-💻 Consistency, progress, and growth across multiple platforms  
-🚀 Tracking my problem-solving journey in one place  
 
----
-
-## 📊 LeetCode
-<img src="https://leetcard.jacoblin.cool/Death_lord?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
-
----
-
-## ⚡ Codeforces
+<!-- ## 📊 LeetCode and CodeForces
+<img src="https://leetcard.jacoblin.cool/Death_lord?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />                         
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vansh1947&theme=dracula" alt="Codeforces Stats" />
 
----
-
-## 🍴 CodeChef
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/leading_sky_78)
-
----
-
-## 🌐 AtCoder
 [![AtCoder](https://img.shields.io/badge/AtCoder-00BFFF?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Death_lord)
+-->
 
----
-
-## 🔥 Streak & Consistency
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Death-LordVansh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
-
----
-## 🔥 Global CP Heatmap
-![CP Heatmap](https://raw.githubusercontent.com/your-username/your-repo/main/heatmap.png)
-
----
-
-## 📊 Total Progress
-**Sum of Questions Attempted Across Platforms:** auto-updated from `progress.json`
-
----
-
-## 🏆 Contest Ratings
-- LeetCode: auto-fetched via API  
-- Codeforces: auto-fetched via API  
-- CodeChef: (to be added)  
-- AtCoder: (to be added)  
-
----
-
-## 📈 Platform-wise Progress
-| Platform    | Problems Solved | Contest Rating | Rank/Stars |
-|-------------|-----------------|----------------|------------|
-| LeetCode    | (auto)          | (auto)         | (auto)     |
-| Codeforces  | (auto)          | (auto)         | (auto)     |
-| CodeChef    | (auto)          | (auto)         | (auto)     |
-| AtCoder     | (auto)          | (auto)         | (auto)     |
-| GitHub      | commits         | —              | —          |
- 
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -151,22 +102,6 @@
 - **Advanced Data Analytics** – Predictive modeling with ML.  
 - **MERN + Flutter Apps**
  – Full-stack + mobile integration.  
-
-
-
-## 🏆 Competitive Programming Profiles
-
-<img src="https://leetcard.jacoblin.cool/Death_lord?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vansh1947&theme=dracula" alt="Codeforces Stats" />
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/leading_sky_78)
-[![AtCoder](https://img.shields.io/badge/AtCoder-00BFFF?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Death_lord)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your_username)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your_username)
-
----
-
-## 🔥 Global CP Heatmap
 ![CP Heatmap](https://raw.githubusercontent.com/your-username/your-repo/main/heatmap.png)
 
 ---
