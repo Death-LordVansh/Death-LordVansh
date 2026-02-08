@@ -134,7 +134,6 @@
 | AtCoder     | (auto)          | (auto)         | (auto)     |
 | GitHub      | commits         | —              | —          |
  
-![Metrics](https://metrics.lecoq.io/?template=classic&leetcode=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&projects=false&projects.limit=2&projects.descriptions=true&leetcode=false&leetcode.user=Death_lord&leetcode.sections=solved&leetcode.limit.skills=5&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta)
 
 ## 📊 GitHub Stats
 <div align="center">
