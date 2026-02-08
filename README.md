@@ -107,6 +107,32 @@
 </div>
 
 ---
+## 🔥 Global CP Heatmap
+![CP Heatmap](https://raw.githubusercontent.com/your-username/your-repo/main/heatmap.png)
+
+---
+
+## 📊 Total Progress
+**Sum of Questions Attempted Across Platforms:** auto-updated from `progress.json`
+
+---
+
+## 🏆 Contest Ratings
+- LeetCode: auto-fetched via API  
+- Codeforces: auto-fetched via API  
+- CodeChef: (to be added)  
+- AtCoder: (to be added)  
+
+---
+
+## 📈 Platform-wise Progress
+| Platform    | Problems Solved | Contest Rating | Rank/Stars |
+|-------------|-----------------|----------------|------------|
+| LeetCode    | (auto)          | (auto)         | (auto)     |
+| Codeforces  | (auto)          | (auto)         | (auto)     |
+| CodeChef    | (auto)          | (auto)         | (auto)     |
+| AtCoder     | (auto)          | (auto)         | (auto)     |
+| GitHub      | commits         | —              | —          |
  
 
 ## 📊 GitHub Stats

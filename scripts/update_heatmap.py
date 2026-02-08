@@ -13,7 +13,7 @@ except FileNotFoundError:
 
 progress[today] = {}
 
-# Example: Codeforces submissions
+# --- Codeforces API ---
 cf_user = "Vansh1947"
 cf_api = f"https://codeforces.com/api/user.status?handle={cf_user}"
 resp = requests.get(cf_api).json()
@@ -23,17 +23,37 @@ submissions_today = [
 ]
 progress[today]['codeforces'] = len(submissions_today)
 
-# TODO: Add LeetCode, CodeChef, AtCoder, HackerRank, GFG fetchers
+# --- LeetCode API (GraphQL) ---
+# Example query: number of submissions today
+leetcode_user = "Death_lord"
+query = """
+{
+  matchedUser(username: "%s") {
+    submitStats {
+      acSubmissionNum {
+        difficulty
+        count
+      }
+    }
+  }
+}
+""" % leetcode_user
+
+resp = requests.post("https://leetcode.com/graphql", json={"query": query}).json()
+total_solved = sum(item["count"] for item in resp["data"]["matchedUser"]["submitStats"]["acSubmissionNum"])
+progress[today]['leetcode'] = total_solved  # You can refine to daily submissions
+
+# TODO: Add CodeChef, AtCoder, HackerRank, GFG integrations
 
 # Save progress
 with open("progress.json", "w") as f:
     json.dump(progress, f, indent=2)
 
-# Generate heatmap
+# --- Generate Heatmap ---
 dates = list(progress.keys())
 counts = [sum(progress[d].values()) for d in dates]
 
 plt.figure(figsize=(12, 4))
 sns.heatmap([counts], cmap="YlGnBu", cbar=True)
-plt.title("Competitive Programming Heatmap")
+plt.title("Unified CP Heatmap (LeetCode + Codeforces)")
 plt.savefig("heatmap.png")
