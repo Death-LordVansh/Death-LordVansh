@@ -1,7 +1,14 @@
-# 👋 Hi there, I'm Vansh!
+# 👋 Hi there, Vansh this side!
 
+💻 Passionate developer exploring full-stack, mobile, AI, and system design.  
+🚀 Always learning, building, and sharing knowledge with the community.  
 💻 Competitive Programmer | Full-Stack Developer | AI Explorer  
 🚀 Always learning, building, and sharing knowledge with the community  
+
+---
+
+### ✨ My Timepass
+Σ skills = {Python + C++ + Java + React + Node.js + ML + AWS + Docker}
 
 ---
 
@@ -18,31 +25,35 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+
 ### Frontend & Mobile
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### Data & AI
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge&logo=deeplearning&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### DevOps & Cloud
@@ -60,8 +71,62 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+---
 
 ---
+# 🏆 Competitive Programming Journey
+
+💻 Consistency, progress, and growth across multiple platforms  
+🚀 Tracking my problem-solving journey in one place  
+
+---
+
+## 📊 LeetCode
+<img src="https://leetcard.jacoblin.cool/Death_lord?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
+
+---
+
+## ⚡ Codeforces
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vansh1947&theme=dracula" alt="Codeforces Stats" />
+
+---
+
+## 🍴 CodeChef
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/leading_sky_78)
+
+---
+
+## 🌐 AtCoder
+[![AtCoder](https://img.shields.io/badge/AtCoder-00BFFF?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Death_lord)
+
+---
+
+## 🔥 Streak & Consistency
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Death-LordVansh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+---
+ 
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Death-LordVansh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Death-LordVansh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Death-LordVansh&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+</div>
+
+---
+
+
+## 📂 Featured Projects
+- **SQL Data Warehouse (Bronze → Gold)** – Scalable pipelines with advanced queries.  
+- **Exploratory Data Analysis (EDA)** – Python analytics + visualization.  
+- **Advanced Data Analytics** – Predictive modeling with ML.  
+- **MERN + Flutter Apps**
+ – Full-stack + mobile integration.  
+
+
 
 ## 🏆 Competitive Programming Profiles
 
